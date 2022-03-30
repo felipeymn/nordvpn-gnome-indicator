@@ -1,0 +1,13 @@
+.nord-icon {
+  width: 24px;
+  height: 24px;
+  padding: 6px;
+}
+
+.indicator-disconnected {
+  background-color: transparent;
+}
+
+.indicator-connected {
+  background-color: rgba(152, 187, 108, 0.2);
+}

@@ -1,0 +1,8 @@
+{
+  "name": "NordVPN Indicator",
+  "description": "Minimal NordVPN Indicator for GNOME",
+  "shell-version": ["41.4"],
+  "url": "",
+  "uuid": "nordvpn-indicator@felipeymn",
+  "version": 1.0
+}
